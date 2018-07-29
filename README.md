@@ -9,8 +9,10 @@ MakersMaker is an programming specialized online education platform.
 
 # Why did we select this project?
 There are already some popular education platforms like [Udacity](https://www.udacity.com/), and [Coursera](https://www.coursera.org/).
-But in case of Coursera, it provides general education, not focused on programming.
- Also, Udacity have lectures based on programming and projects. But, they don't provide tools for software engineering which is necessary for programming. We feel inconvenient from these, So we decided to make our own convenient education platform specialized for programmers.
+But usually, it provides general education, not focused on programming.
+Also, Other SW Edu Platforms don't provide easy-tools for software development which is necessary for programming. 
+You have to turn on IDE and tapping from lecture to IDE and They just provide video's lecture view, Oh my god!!.
+We feel inconvenient from these, So we decided to make our own convenient education platform specialized for programmers.
 
 # New Features
 
