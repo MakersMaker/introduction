@@ -2,10 +2,10 @@
 
 MakersMaker is an programming specialized online education platform.
 
-  - Based on project
-  - Can share code with our tutor in real-time
+  - Course based on project, so you can make your own portfolio
+  - Can share code and get help with your tutor in real-time
   - lecture streaming & 1-to-1 video call tutoring
-  - Provide automatically generated portfolios
+  - Provide automatically generated portfolio
 
 # Why did we select this project?
 There are already some popular education platforms like [Udacity](https://www.udacity.com/), and [Coursera](https://www.coursera.org/).
