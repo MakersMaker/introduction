@@ -37,6 +37,7 @@ We are MakersMaker!!
 >JiYeon Kim. Developer<br>
 >Senior in Computer Science & Engeneering.<br>
 ![alan](https://user-images.githubusercontent.com/41455064/43368721-c355b7ce-939c-11e8-9fd2-e8892ae91d51.png) <br>
+>Alan Shum<br>
 > Web Developer<br>
 ![me2](https://user-images.githubusercontent.com/41455064/43364692-19b4b9a0-935a-11e8-9c17-1b6bae638080.png) <br>
 >Trey, Choi. Designer & Developer <br>
